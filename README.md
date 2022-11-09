@@ -15,4 +15,5 @@ Note: Ratio between N and ThreadsPerBlock cannot increase more than it is by def
 **References:**
 
 [K-Means using CUDA](http://alexminnaar.com/2019/03/05/cuda-kmeans.html)
+
 [Algorithm](https://www.javatpoint.com/k-means-clustering-algorithm-in-machine-learning)
